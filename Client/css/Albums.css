@@ -1,0 +1,15 @@
+.album-info {
+    height: 150px;
+    width: 200px;
+    margin: auto;
+    padding: 20px;
+    border: 7px ridge rgb(147, 173, 172);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.album-info:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transform: translate(0, -5px);
+}

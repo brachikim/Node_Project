@@ -1,0 +1,37 @@
+.info-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(171, 229, 215,0.5);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .info-field {
+    margin-bottom: 15px;
+    line-height: 25px;
+  }
+  
+  .field-label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .field-value {
+    font-weight: normal;
+  }
+  
+  .nested-info {
+    margin-left: 20px;
+  }
+  
+  .nested-label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .nested-value {
+    font-weight: normal;
+  }
+  
